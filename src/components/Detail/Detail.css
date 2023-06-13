@@ -1,0 +1,20 @@
+.detail{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    background-color: #ffffffcb;
+}
+.detail img{
+    border-radius: 15px;
+    width: 250px;
+    height: 150px;
+    margin: 15px;
+}
+
+.detail-info{
+    padding-left: 8px;
+}
+.ages{
+    display: flex;
+    align-items: center;
+}
