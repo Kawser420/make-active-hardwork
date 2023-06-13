@@ -1,0 +1,49 @@
+.cart-information {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.title-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-items img {
+    width: 35px;
+    border-radius: 50px;
+}
+
+small {
+    display: grid;
+}
+
+.small-name {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.small-info {
+    margin-left: 5px;
+}
+.human{
+    background-color: silver;
+    margin-top: 10px;
+    border-radius: 15px;
+    width: 80%;
+}
+.human-bio {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+strong {
+    font-size: 10px;
+}
+.title-bio{
+    font-size: 15px;
+    font-weight: 350;
+}

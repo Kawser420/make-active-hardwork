@@ -3,21 +3,28 @@
     align-items: center;
     color: palevioletred;
     width: 25%;
-    margin-top: 45px;
+    margin-top: 20px;
     border-radius: 15px;
+}
+.title-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
 }
 .header h2{
     font-size: 25px;
 }
 
 .header img{
-    width: 15%;
-    height: 15%;
+    width: 20%;
+    height: 20%;
 }
 h3{
     color: seagreen;
-    font-size: 20px;
+    font-size: 25px;
 }
-.header-info{
-    margin-left: 40px;
+.item-name-h3{
+    margin-left: 45px;
 }

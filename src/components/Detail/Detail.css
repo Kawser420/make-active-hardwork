@@ -18,3 +18,18 @@
     display: flex;
     align-items: center;
 }
+
+.btn-cart{
+    width: 100%;
+    background-color: turquoise;
+    color: black;
+    border: none;
+    padding: 20px;
+    border-radius: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.btn-cart:hover{
+    background-color: tomato;
+}
